@@ -1,3 +1,3 @@
 # EductionTool
 Web for student
-Author - Gautam Kumar
+Author - Gautam Kumar (new tool)
